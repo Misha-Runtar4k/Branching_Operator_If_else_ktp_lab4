@@ -1,0 +1,15 @@
+/Users/misha/Projects/KPT Lab 4/KPT Lab 4/bin/Debug/net7.0/KPT Lab 4
+/Users/misha/Projects/KPT Lab 4/KPT Lab 4/bin/Debug/net7.0/KPT Lab 4.deps.json
+/Users/misha/Projects/KPT Lab 4/KPT Lab 4/bin/Debug/net7.0/KPT Lab 4.runtimeconfig.json
+/Users/misha/Projects/KPT Lab 4/KPT Lab 4/bin/Debug/net7.0/KPT Lab 4.dll
+/Users/misha/Projects/KPT Lab 4/KPT Lab 4/bin/Debug/net7.0/KPT Lab 4.pdb
+/Users/misha/Projects/KPT Lab 4/KPT Lab 4/obj/Debug/net7.0/KPT Lab 4.csproj.AssemblyReference.cache
+/Users/misha/Projects/KPT Lab 4/KPT Lab 4/obj/Debug/net7.0/KPT Lab 4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/misha/Projects/KPT Lab 4/KPT Lab 4/obj/Debug/net7.0/KPT Lab 4.AssemblyInfoInputs.cache
+/Users/misha/Projects/KPT Lab 4/KPT Lab 4/obj/Debug/net7.0/KPT Lab 4.AssemblyInfo.cs
+/Users/misha/Projects/KPT Lab 4/KPT Lab 4/obj/Debug/net7.0/KPT Lab 4.csproj.CoreCompileInputs.cache
+/Users/misha/Projects/KPT Lab 4/KPT Lab 4/obj/Debug/net7.0/KPT Lab 4.dll
+/Users/misha/Projects/KPT Lab 4/KPT Lab 4/obj/Debug/net7.0/refint/KPT Lab 4.dll
+/Users/misha/Projects/KPT Lab 4/KPT Lab 4/obj/Debug/net7.0/KPT Lab 4.pdb
+/Users/misha/Projects/KPT Lab 4/KPT Lab 4/obj/Debug/net7.0/KPT Lab 4.genruntimeconfig.cache
+/Users/misha/Projects/KPT Lab 4/KPT Lab 4/obj/Debug/net7.0/ref/KPT Lab 4.dll
